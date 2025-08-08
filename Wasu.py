@@ -78,7 +78,7 @@ def index():
 <style>
 *{box-sizing:border-box;font-family:sans-serif}
 body{
-  margin:0;padding:0;background:url('https://i.ibb.co/MW0CQdQ/2ad93577c9fa0598138cd27ff8ebe151.jpg') center/cover fixed no-repeat;
+  margin:0;padding:0;image:url('https://i.ibb.co/F1HNHD2/1754669627004.jpg') center/cover fixed no-repeat;
   color:#fff;display:flex;flex-direction:column;align-items:center;min-height:100vh}
 .title{font-size:1.2rem;font-weight:bold;color:#39ff14;margin:20px 0 10px;text-align:center}
 .container{
